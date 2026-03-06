@@ -157,7 +157,7 @@ void transfer()
 					if(reciever_account==Account[p].accountNumber)
 					{
 
-						* Prevent transferring to same account */
+						/* Prevent transferring to same account */
 						if(sender_account==reciever_account)
 						{
 							printf("Cannot transfer to same account\n");
@@ -263,3 +263,4 @@ int main()
 	}while(choice!=6);
 return 0;
 }
+
