@@ -1,15 +1,24 @@
 🏦 Bank Management System in C
+
+
 A console-based Bank Management System implemented in C that simulates core banking operations such as account creation, deposits, withdrawals, fund transfers, and balance inquiries.
+
 This project demonstrates structured programming concepts, data handling using structures, and menu-driven system design.
+
 📌 Project Overview
+
 The Bank Management System is designed to manage multiple customer accounts using an in-memory data structure. It provides a user-friendly menu interface and performs necessary validations to ensure correct transaction processing.
+
+
 This project is ideal for understanding:
+
 Structures in C
 Arrays of structures
 Function-based modular programming
 Input validation
 Nested loop logic
 Basic financial transaction handling
+
 ✨ Features
 Create a new bank account
 Deposit funds into an account
@@ -18,6 +27,7 @@ Transfer funds between accounts
 Check account balance
 Menu-driven interactive interface
 Error handling and validation checks
+
 🧠 System Design
 Data Structure Used
 C
@@ -35,6 +45,7 @@ Transactions update the in-memory account balance.
 Programming Language: C
 Compiler: GCC / MinGW / Turbo C / Any Standard C Compiler
 Execution Mode: Command Line Interface (CLI)
+
 ▶️ How to Compile and Run
 🔹 Compile
 Bash
